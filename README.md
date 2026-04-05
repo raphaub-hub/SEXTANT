@@ -9,7 +9,7 @@ Copier
 
 > A local, Python-based backtesting application with a Streamlit interface. Test trading strategies on historical data without depending on third-party platforms.
 
-![Sextant interface screenshot](main/sextant.png)
+![Sextant interface screenshot](main/SEXTANT.png)
 
 ## Features
 
