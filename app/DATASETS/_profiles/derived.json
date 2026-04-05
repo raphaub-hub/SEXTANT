@@ -1,0 +1,32 @@
+{
+  "UVOL_PCT": {
+    "name": "UVOL_PCT",
+    "formula": "UVOL / (UVOL + DVOL)",
+    "components": [
+      "UVOL",
+      "DVOL"
+    ],
+    "currency": "% (rate / yield)",
+    "description": "NYSE Upside Volume % of Total"
+  },
+  "VIX3M_VIX": {
+    "name": "VIX3M_VIX",
+    "formula": "VIX3M / VIX",
+    "components": [
+      "VIX3M",
+      "VIX"
+    ],
+    "currency": "Index value",
+    "description": "VIX Term Structure: 3-Month / 1-Month"
+  },
+  "VIX_VIX9D": {
+    "name": "VIX_VIX9D",
+    "formula": "VIX / VIX9D",
+    "components": [
+      "VIX",
+      "VIX9D"
+    ],
+    "currency": "Index value",
+    "description": "VIX Term Structure: 1-Month / 9-Day"
+  }
+}
